@@ -1,6 +1,6 @@
 # Unintended-Con-Sequences
 
-This is the implementation for my BLANK paper [Unintended Con-Sequences]. Everything added to this repository was used to set the model in a Google Colab Environment, as well as my paper. It includes the code for training and adapting the Oops dataset and pre-trained Kinetics TimeSformer model. This project provides a framework for improving unintentional action prediction for the Oops dataset, which focuses on both human and animal "fails" collected from YouTube videos. 
+This is the implementation for my Dartmouth Video Understanding Mini-Conference paper [Unintended Con-Sequences]. Everything added to this repository was used to set the model in a Google Colab Environment, as well as my paper. It includes the code for training and adapting the Oops dataset and pre-trained Kinetics TimeSformer model. This project provides a framework for improving unintentional action prediction for the Oops dataset, which focuses on both human and animal "fails" collected from YouTube videos. 
 
 # Overview 
 The main goal of this project, as mentioned above, was to develop a framework for predicting unintentional actions in videos. This involves: 
